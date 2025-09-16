@@ -1,4 +1,3 @@
-💫 About Me
 🚀 Aspiring Data Analyst & DevOps Learner – bridging data, automation, and intelligence
 📊 Data Analytics Foundation – Excel, Power BI, SQL, Python (Pandas, NumPy, Matplotlib)
 ⚙ Exploring DevOps – Linux, Git, Docker, Kubernetes, CI/CD for scalable solutions
