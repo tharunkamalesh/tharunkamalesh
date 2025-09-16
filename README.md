@@ -1,4 +1,4 @@
-# Hi there, I'm Tharun Kamalesh! 👋
+# Hi there, I'm Tharun Kamalesh S
 
 ### About Me
 
