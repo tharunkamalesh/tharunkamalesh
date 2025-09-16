@@ -1,4 +1,4 @@
-# Hi there, I'm Tharun Kamalesh S
+# Hi there, I'm Tharun Kamalesh
 
 ### About Me
 
@@ -6,7 +6,7 @@
 -   🚀 Passionate about building end-to-end data pipelines from raw insights to deployment.
 -   🌱 Always curious, always learning, and always creating.
 -   🔧 My core tools include **Excel, Power BI, SQL, Python (Pandas, NumPy, Matplotlib)**.
--   ☁️ I'm also exploring **DevOps, Git, Docker, and Kubernetes**.
+-   ☁️ I'm also exploring **DevOps, Git and GitHub, Docker, and Kubernetes**.
 
 ---
 
@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
