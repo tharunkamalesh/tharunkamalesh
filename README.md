@@ -1,17 +1,14 @@
+## Hi There.I'am Tharun Kamalesh
 
-About Me
+## About Me
 
 💻 Aspiring Data Analyst & DevOps Learner
-
 🚀 Passionate about building end-to-end data pipelines from raw insights to deployment.
-
 🌱 Always curious, always learning, and always creating.
-
 🔧 My core tools include Excel, Power BI, SQL, Python.
-
 ☁️ I'm also exploring DevOps, Git and GitHub, Docker, Kubernetes, and Jenkins.
 
-Tech Stack
+## Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -23,7 +20,7 @@ Tech Stack
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-GitHub Stats
+## GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" alt="Tharun Kamalesh's GitHub Stats" />
 </div>
