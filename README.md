@@ -1,26 +1,33 @@
-## Hi There.I'am Tharun Kamalesh
+# Hi there, I'm Tharun Kamalesh
 
-## About Me
+### About Me
 
-💻 Aspiring Data Analyst & DevOps Learner
-🚀 Passionate about building end-to-end data pipelines from raw insights to deployment.
-🌱 Always curious, always learning, and always creating.
-🔧 My core tools include Excel, Power BI, SQL, Python.
-☁️ I'm also exploring DevOps, Git and GitHub, Docker, Kubernetes, and Jenkins.
+-   💻 Aspiring Data Analyst & DevOps Learner
+-   🚀 Passionate about building end-to-end data pipelines from raw insights to deployment.
+-   🌱 Always curious, always learning, and always creating.
+-   🔧 My core tools include **Excel, Power BI, SQL, Python**.
+-   ☁️ I'm also exploring **DevOps, Git and GitHub, Docker, Kubernetes, and Jenkins**.
 
-## Tech Stack
+---
+
+### Tech Stack
+
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+    
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## GitHub Stats
+---
+
+### GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" alt="Tharun Kamalesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" alt="Tharun Kamalesh's GitHub Stats" />
 </div>
