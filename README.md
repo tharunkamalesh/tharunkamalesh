@@ -1,6 +1,6 @@
 # Hi there, I'm Tharun Kamalesh
 
-### About Me
+### About Me 
 
 - 💻 Aspiring Data Analyst & DevOps Learner
 - 🚀 Passionate about building end-to-end data pipelines from raw insights to deployment.
