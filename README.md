@@ -2,6 +2,7 @@
 
 ## About Me
 💻 Data Analyst & DevOps Professional
+
 🚀 Experienced in building end-to-end data pipelines, dashboards, and deploying applications using DevOps practices.
 🌱 Passionate about learning new technologies and optimizing workflows for efficiency.
 🔧 Core skills include Python, SQL, Power BI, Excel, Git, Docker, Kubernetes, Jenkins, and Linux.
