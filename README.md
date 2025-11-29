@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" alt="Tharun Kamalesh's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" />
 </div>
 
 
@@ -42,12 +42,12 @@
 
 ### 📈 Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkamalesh&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tharunkamalesh&layout=compact&theme=dark" />
 </div>
 
 ---
 
 ### 🔥 GitHub Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tharunkamalesh&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=tharunkamalesh&theme=dark" />
 </div>
