@@ -51,10 +51,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=tharunkamalesh&theme=dark" />
 </div>
-
----
-
-### 🚀 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkamalesh&theme=react-dark" />
-</div>
