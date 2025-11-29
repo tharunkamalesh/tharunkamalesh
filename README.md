@@ -36,3 +36,25 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" alt="Tharun Kamalesh's GitHub Stats" />
 </div>
+
+
+---
+
+### 📈 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkamalesh&layout=compact&theme=dark" />
+</div>
+
+---
+
+### 🔥 GitHub Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=tharunkamalesh&theme=dark" />
+</div>
+
+---
+
+### 🚀 Contribution Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkamalesh&theme=react-dark" />
+</div>
