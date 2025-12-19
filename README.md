@@ -46,18 +46,11 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharunkamalesh&theme=dark)
-
-
----
 
 ## 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkamalesh&layout=compact&theme=dark)
 
 ---
-
 
 ## 📫 Connect With Me
 
