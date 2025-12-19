@@ -58,10 +58,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=tharunkamalesh&theme=dark)
-
----
 
 ## 📫 Connect With Me
 
