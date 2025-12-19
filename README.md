@@ -46,8 +46,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharunkamalesh&theme=dark)
+
 
 ---
 
