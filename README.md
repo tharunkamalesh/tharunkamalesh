@@ -14,7 +14,8 @@
 - 🔁 Implementing **CI/CD pipelines** using **Jenkins & Git**
 - 📊 Monitoring systems using **Prometheus & Grafana**
 
----## 🧰 Tech Toolbox
+---
+## 🧰 Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,gitlab,linux,docker,kubernetes,jenkins,aws,railway,grafana,prometheus,vscode&perline=9" />
