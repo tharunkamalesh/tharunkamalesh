@@ -19,9 +19,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,gitlab,linux,docker,kubernetes,jenkins,aws,railway,grafana,prometheus,vscode&perline=9" />
 </p>
-
-
-
+---
 
 ## 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkamalesh&layout=compact&theme=dark)
