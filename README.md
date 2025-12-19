@@ -18,8 +18,10 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,gitlab,linux,docker,kubernetes,jenkins,aws,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,gitlab,linux,docker,kubernetes,jenkins,aws,vscode&perline=7" />
 </p>
+
+
 
 ---
 
