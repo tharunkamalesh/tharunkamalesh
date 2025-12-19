@@ -1,53 +1,72 @@
-## 👋 Myself **Tharun Kamalesh**
+## 👋 Hi, I'm **Tharun Kamalesh**
 
-### 💻 About Me
-- 🚀 Experienced **Data Analyst & DevOps Professional** skilled in building end-to-end data pipelines, dashboards, and deploying applications using DevOps practices.  
-- 🌱 Passionate about learning new technologies and optimizing workflows for efficiency.  
-- 🔧 Strong expertise in **Python, SQL, Power BI, Tableau,Excel, Git, Docker, Kubernetes, Jenkins, and Linux**.  
-- ☁️ Focused on delivering **data-driven insights** and **robust, automated deployment pipelines** using modern cloud and DevOps tools.  
-- 💡 Constantly exploring tools for **monitoring, analytics, and CI/CD automation** to enhance operational excellence.
+🚀 **Data Analyst & DevOps Professional**  
+📊 Turning data into insights | ⚙️ Automating deployments | ☁️ Cloud & CI/CD Enthusiast
 
 ---
 
-### 🧰 Tech Stack
+## 💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
+- 🔍 Experienced in building **end-to-end data pipelines**
+- 📈 Creating dashboards using **Power BI, Tableau, Excel**
+- ⚙️ Deploying applications with **DevOps best practices**
+- ☁️ Working with **AWS & Cloud-native tools**
+- 🔁 Implementing **CI/CD pipelines** using **Jenkins & Git**
+- 📊 Monitoring systems using **Prometheus & Grafana**
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark" />
-</div>
+### 👨‍💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 📊 Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📡 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-### 📈 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tharunkamalesh&layout=compact&theme=dark" />
-</div>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunkamalesh&show_icons=true&theme=dark)
 
 ---
 
-### 🔥 GitHub Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tharunkamalesh&theme=dark" />
-</div>
+## 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkamalesh&layout=compact&theme=dark)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=tharunkamalesh&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/tharunkamalesh  
+- 📧 Email: tharunkamalesh09@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/tharun-kamalesh  
+
+---
+
+⭐ **Always learning | Always building | Always improving**
