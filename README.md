@@ -127,14 +127,3 @@ I enjoy transforming ideas into production-ready systems with scalability, clean
 </p>
 
 ---
-
-## ⚡ Current Focus
-
-```diff
-+ Building scalable full stack applications
-+ Learning advanced DevOps & cloud infrastructure
-+ Developing AI-powered productivity systems
-+ Improving backend scalability and system architecture
-+ Creating intelligent analytics dashboards
-+ Expanding SaaS and automation ecosystems
-```
